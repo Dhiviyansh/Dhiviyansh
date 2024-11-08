@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhiviyansh
 - 👀 I’m interested in Embedded Systems Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on project using RPi
+- 💞️ I’m looking to collaborate on projects using RPi
 - 📫 How to reach me: dhiviyanshpunamiya13@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
